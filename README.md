@@ -1,8 +1,7 @@
-# Project Name
+# E-Commerce Back End
   ![badge](https://img.shields.io/badge/Created_With-LOVE-pink.svg)
 
-> This is a tool to help visually organize a team.
-
+> This is a back end tool for an internet retail company.
 ## Table of contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
@@ -16,10 +15,10 @@
 * [Contact](#contact)
 
 ## General info
-General Overview
+> Uses Sequelize to create and modify back end databases.
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](../public/images/note-taker-screenshot.png)
 
 ## Technologies
 * HTML5
@@ -39,22 +38,18 @@ Show examples of usage:
 ```
 
 ## Features
-* 
-* 
-* 
+* Uses Seqyelize to connect to the database
+* Successfully create, update, and delete data in the database
 
 ## To-Do
-* 
-* 
-*   
-
+* Improve front-end interface
 
 
 ## Status
-This project is in progress.  As new technologies and client needs evolve, so will this application.
+>This project is in progress.  As new technologies and client needs evolve, so will this application.
 
 ## Inspiration
-
+> Utilize Sequelize to create databases.
 
 ## Licenses
 [![License: ICL](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)  
